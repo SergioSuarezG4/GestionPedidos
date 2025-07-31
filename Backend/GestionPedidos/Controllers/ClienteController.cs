@@ -23,5 +23,12 @@ namespace GestionPedidos.Controllers
             return Ok(result);
             
         }
+        [HttpGet]
+        public async Task<IActionResult> GetClientsAsync()
+        {
+            var result = await _clienteBusiness.GetAllClietnsAsync();
+            return Ok(result);
+
+        }
     }
 }
