@@ -5,7 +5,7 @@ Thumbs.db
 
 # VS Code global (si no está ya en los otros)
 .vscode/
-.vs
+.vs/
 
 # Node (si hay algo como husky en la raíz)
 node_modules/
