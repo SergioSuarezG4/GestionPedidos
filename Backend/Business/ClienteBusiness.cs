@@ -24,6 +24,8 @@ namespace Business
 
         private async Task AddClient(Cliente cliente) => await _genericRepositoryCliente.AddAsync(cliente);
 
+        private async Task<IEnumerable<Cliente>> GetClients() => await _genericRepositoryCliente.GetAllAsync();
+
         public async Task<Cliente> CreateCliente(Cliente cliente)
         {
             if ( cliente == null)
@@ -39,6 +41,18 @@ namespace Business
             }
 
             return cliente;
+        }
+
+        public async Task<IEnumerable<Cliente>> GetAllClietnsAsync()
+        {
+            var clients = await GetClients();
+
+            if( clients == null)
+            {
+                throw new ClienteException("No se encontraron Clientes");
+            }
+
+            return clients;
         }
     }
 }

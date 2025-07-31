@@ -10,5 +10,6 @@ namespace Business.Interfaces
     public interface IClienteBusiness
     {
        Task<Cliente> CreateCliente(Cliente cliente);
+       Task<IEnumerable<Cliente>> GetAllClietnsAsync();
     }
 }
