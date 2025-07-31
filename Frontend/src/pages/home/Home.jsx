@@ -1,4 +1,4 @@
-import Navbar from "../../components/NavBar";
+import Navbar from "../../components/layout/NavBar";
 import { LuUtensilsCrossed } from "react-icons/lu";
 import { LuClipboardList } from "react-icons/lu";
 import { LuUserCog } from "react-icons/lu";
