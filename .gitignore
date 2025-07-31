@@ -1,0 +1,14 @@
+# General
+*.log
+.DS_Store
+Thumbs.db
+
+# VS Code global (si no está ya en los otros)
+.vscode/
+
+# Node (si hay algo como husky en la raíz)
+node_modules/
+
+# Archivos de entorno global
+.env
+.env.*

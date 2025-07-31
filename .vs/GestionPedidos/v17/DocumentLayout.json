@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2121F66F-C8F7-43B0-83C3-FFBFAB489CA0}|GestionPedidos\\GestionPedidos.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\gestionpedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2121F66F-C8F7-43B0-83C3-FFBFAB489CA0}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121F66F-C8F7-43B0-83C3-FFBFAB489CA0}|GestionPedidos\\GestionPedidos.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\gestionpedidos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2121F66F-C8F7-43B0-83C3-FFBFAB489CA0}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121F66F-C8F7-43B0-83C3-FFBFAB489CA0}|GestionPedidos\\GestionPedidos.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\gestionpedidos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2121F66F-C8F7-43B0-83C3-FFBFAB489CA0}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121F66F-C8F7-43B0-83C3-FFBFAB489CA0}|GestionPedidos\\GestionPedidos.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\gestionpedidos\\gestionpedidos.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2121F66F-C8F7-43B0-83C3-FFBFAB489CA0}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\gestionpedidos.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42512A5F-9E51-4495-8E94-17BB07B53535}|Business\\Business.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\business\\clientebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42512A5F-9E51-4495-8E94-17BB07B53535}|Business\\Business.csproj|solutionrelative:business\\clientebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121F66F-C8F7-43B0-83C3-FFBFAB489CA0}|GestionPedidos\\GestionPedidos.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\gestionpedidos\\middleware\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2121F66F-C8F7-43B0-83C3-FFBFAB489CA0}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\middleware\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87B74BC-EC91-46B9-85DA-D0AE2891F6E0}|Repositorio\\Repositorio.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\repositorio\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87B74BC-EC91-46B9-85DA-D0AE2891F6E0}|Repositorio\\Repositorio.csproj|solutionrelative:repositorio\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2D2217-2EC5-4E8F-9767-5B6296629DB0}|Infrastructure\\Infrastructure.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\infrastructure\\validation\\clientevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2D2217-2EC5-4E8F-9767-5B6296629DB0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\validation\\clientevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8441C076-D86E-4E7E-B20F-43ADD1F211AF}|Dominio\\Dominio.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\dominio\\dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8441C076-D86E-4E7E-B20F-43ADD1F211AF}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8441C076-D86E-4E7E-B20F-43ADD1F211AF}|Dominio\\Dominio.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\dominio\\entidad\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8441C076-D86E-4E7E-B20F-43ADD1F211AF}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidad\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8441C076-D86E-4E7E-B20F-43ADD1F211AF}|Dominio\\Dominio.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\dominio\\resultmessage\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8441C076-D86E-4E7E-B20F-43ADD1F211AF}|Dominio\\Dominio.csproj|solutionrelative:dominio\\resultmessage\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8441C076-D86E-4E7E-B20F-43ADD1F211AF}|Dominio\\Dominio.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\dominio\\exceptions\\clienteexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8441C076-D86E-4E7E-B20F-43ADD1F211AF}|Dominio\\Dominio.csproj|solutionrelative:dominio\\exceptions\\clienteexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87B74BC-EC91-46B9-85DA-D0AE2891F6E0}|Repositorio\\Repositorio.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\repositorio\\genericrepository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87B74BC-EC91-46B9-85DA-D0AE2891F6E0}|Repositorio\\Repositorio.csproj|solutionrelative:repositorio\\genericrepository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87B74BC-EC91-46B9-85DA-D0AE2891F6E0}|Repositorio\\Repositorio.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\repositorio\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87B74BC-EC91-46B9-85DA-D0AE2891F6E0}|Repositorio\\Repositorio.csproj|solutionrelative:repositorio\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87B74BC-EC91-46B9-85DA-D0AE2891F6E0}|Repositorio\\Repositorio.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\repositorio\\modelo\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87B74BC-EC91-46B9-85DA-D0AE2891F6E0}|Repositorio\\Repositorio.csproj|solutionrelative:repositorio\\modelo\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87B74BC-EC91-46B9-85DA-D0AE2891F6E0}|Repositorio\\Repositorio.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\repositorio\\unitofwork\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87B74BC-EC91-46B9-85DA-D0AE2891F6E0}|Repositorio\\Repositorio.csproj|solutionrelative:repositorio\\unitofwork\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2121F66F-C8F7-43B0-83C3-FFBFAB489CA0}|GestionPedidos\\GestionPedidos.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\gestionpedidos\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2121F66F-C8F7-43B0-83C3-FFBFAB489CA0}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chech\\source\\repos\\GestionPedidos\\Infraestructura\\Validation\\ClienteValidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infraestructura\\Validation\\ClienteValidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42512A5F-9E51-4495-8E94-17BB07B53535}|Business\\Business.csproj|c:\\users\\chech\\source\\repos\\gestionpedidos\\business\\interfaces\\iclientebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42512A5F-9E51-4495-8E94-17BB07B53535}|Business\\Business.csproj|solutionrelative:business\\interfaces\\iclientebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\GestionPedidos\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GestionPedidos\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\GestionPedidos\\appsettings.Development.json",
+              "RelativeToolTip": "GestionPedidos\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T00:44:08.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dominio.csproj",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Dominio\\Dominio.csproj",
+              "RelativeDocumentMoniker": "Dominio\\Dominio.csproj",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Dominio\\Dominio.csproj",
+              "RelativeToolTip": "Dominio\\Dominio.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T00:28:40.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestionPedidos.http",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\GestionPedidos\\GestionPedidos.http",
+              "RelativeDocumentMoniker": "GestionPedidos\\GestionPedidos.http",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\GestionPedidos\\GestionPedidos.http",
+              "RelativeToolTip": "GestionPedidos\\GestionPedidos.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-30T00:24:22.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\GestionPedidos\\appsettings.json",
+              "RelativeDocumentMoniker": "GestionPedidos\\appsettings.json",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\GestionPedidos\\appsettings.json",
+              "RelativeToolTip": "GestionPedidos\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T00:24:20.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\GestionPedidos\\Program.cs",
+              "RelativeDocumentMoniker": "GestionPedidos\\Program.cs",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\GestionPedidos\\Program.cs",
+              "RelativeToolTip": "GestionPedidos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:00:55.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Repositorio\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repositorio\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Repositorio\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Repositorio\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T05:21:57.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Dominio\\Entidad\\Cliente.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidad\\Cliente.cs",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Dominio\\Entidad\\Cliente.cs",
+              "RelativeToolTip": "Dominio\\Entidad\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:02:00.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteException.cs",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Dominio\\Exceptions\\ClienteException.cs",
+              "RelativeDocumentMoniker": "Dominio\\Exceptions\\ClienteException.cs",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Dominio\\Exceptions\\ClienteException.cs",
+              "RelativeToolTip": "Dominio\\Exceptions\\ClienteException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:03:37.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Business\\ClienteBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\ClienteBusiness.cs",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Business\\ClienteBusiness.cs",
+              "RelativeToolTip": "Business\\ClienteBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:31:56.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Repositorio\\UnitOfWork\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repositorio\\UnitOfWork\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Repositorio\\UnitOfWork\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Repositorio\\UnitOfWork\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:27:18.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Middleware.cs",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\GestionPedidos\\Middleware\\Middleware.cs",
+              "RelativeDocumentMoniker": "GestionPedidos\\Middleware\\Middleware.cs",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\GestionPedidos\\Middleware\\Middleware.cs",
+              "RelativeToolTip": "GestionPedidos\\Middleware\\Middleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:52:32.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteValidation.cs",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Infrastructure\\Validation\\ClienteValidation.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Validation\\ClienteValidation.cs",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Infrastructure\\Validation\\ClienteValidation.cs",
+              "RelativeToolTip": "Infrastructure\\Validation\\ClienteValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:29:26.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Repositorio\\GenericRepository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositorio\\GenericRepository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Repositorio\\GenericRepository\\GenericRepository.cs",
+              "RelativeToolTip": "Repositorio\\GenericRepository\\GenericRepository.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAqwAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:28:24.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Repositorio\\Modelo\\Context.cs",
+              "RelativeDocumentMoniker": "Repositorio\\Modelo\\Context.cs",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Repositorio\\Modelo\\Context.cs",
+              "RelativeToolTip": "Repositorio\\Modelo\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:05:28.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Repositorio\\GenericRepository\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositorio\\GenericRepository\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Repositorio\\GenericRepository\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Repositorio\\GenericRepository\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:29:30.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Dominio\\ResultMessage\\Error.cs",
+              "RelativeDocumentMoniker": "Dominio\\ResultMessage\\Error.cs",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Dominio\\ResultMessage\\Error.cs",
+              "RelativeToolTip": "Dominio\\ResultMessage\\Error.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:54:29.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IClienteBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Business\\Interfaces\\IClienteBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IClienteBusiness.cs",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Business\\Interfaces\\IClienteBusiness.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IClienteBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:35:42.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClienteValidation.cs",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Infraestructura\\Validation\\ClienteValidation.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Validation\\ClienteValidation.cs",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\Infraestructura\\Validation\\ClienteValidation.cs",
+              "RelativeToolTip": "Infraestructura\\Validation\\ClienteValidation.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T05:40:04.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\GestionPedidos\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "GestionPedidos\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\chech\\source\\repos\\GestionPedidos\\GestionPedidos\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "GestionPedidos\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T05:14:12.528Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

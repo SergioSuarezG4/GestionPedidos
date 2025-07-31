@@ -1,0 +1,46 @@
+## Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+
+## Archivos de compilación
+bin/
+obj/
+out/
+
+## Archivos generados por el runtime
+*.dll
+*.exe
+*.db
+*.log
+*.pdb
+
+## Archivos de configuración de entorno local
+appsettings.Development.json
+appsettings.Local.json
+
+## Archivos de paquetes
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+
+## Sistema operativo
+.DS_Store
+Thumbs.db
+
+## Archivos de usuario
+*.swp
+*.bak
+*.tmp
+
+## Archivos secretos
+secrets.json
+.env
+.env.*
