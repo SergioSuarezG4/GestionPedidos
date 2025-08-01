@@ -1,26 +1,40 @@
-import { FaBox } from "react-icons/fa";
+import { IoLogoDropbox } from "react-icons/io5";
 import { NavLink } from "react-router";
 
 const Navbar = () => {
   return (
-    <nav className="w-full flex items-center justify-between px-12 py-4 bg-white shadow-md fixed top-0 left-0 z-50">
-      <div className="flex items-center space-x-2 pl-6">
-        <FaBox className="text-blue-300 text-3xl " size={30} />
-        <span className="text-xl font-semibold text-black px-2">
-          OrderManager
-        </span>
-      </div>
-
-      <div className="space-x-8">
-        <NavLink to="/Clientes" className="text-gray-700 font-semibold hover:text-blue-400 cursor-pointer">
-          Clientes
-        </NavLink>
-        <NavLink to="/Platos" className="text-gray-700 font-semibold hover:text-blue-400 cursor-pointer">
-          Platos
-        </NavLink>
-        <NavLink to="/Pedidos" className="text-gray-700 font-semibold hover:text-blue-400 cursor-pointer">
-          Pedidos
-        </NavLink>
+    <nav className="bg-white border-b border-gray-200 shadow-sm">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="flex justify-between h-16">
+          <div className="flex items-center">
+            <NavLink to="/" className="flex items-center">
+              <IoLogoDropbox className="h-8 w-8 text-[#4da6ff]" />
+              <span className="ml-2 text-xl font-semibold text-gray-900">
+                OrderManager
+              </span>
+            </NavLink>
+          </div>
+          <div className="flex items-center space-x-8">
+            <NavLink
+              to="/Clientes"
+              className="text-gray-700 font-medium hover:text-blue-400"
+            >
+              Clientes
+            </NavLink>
+            <NavLink
+              to="/Platos"
+              className="text-gray-700 font-medium hover:text-blue-400"
+            >
+              Platos
+            </NavLink>
+            <NavLink
+              to="/Pedidos"
+              className="text-gray-700 font-medium hover:text-blue-400"
+            >
+              Pedidos
+            </NavLink>
+          </div>
+        </div>
       </div>
     </nav>
   );
