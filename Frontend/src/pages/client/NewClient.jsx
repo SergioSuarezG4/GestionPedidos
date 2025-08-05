@@ -1,6 +1,6 @@
 import ArrowLeft from "../../components/ArrowLeft";
 import FormClient from "../../components/client/FormClient";
-import Table from "../../components/Table";
+
 const NewClient = () => {
   return (
     <div className="max-w-2xl mx-auto py-8 px-4 sm:px-6 lg:px-8 ">
